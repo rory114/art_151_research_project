@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+html, body {
+  margin:0px;
+  height:100%;
+}
+.fill {
+  width: 10%;
+  height: 90%;
+}
